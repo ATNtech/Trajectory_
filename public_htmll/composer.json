@@ -1,0 +1,21 @@
+{
+    "name": "fw/fw",
+    "require": {
+        "monolog/monolog": "^1.23",
+        "phpmailer/phpmailer": "^5.2",
+        "filp/whoops": "2.7",
+        "vlucas/valitron": "^1.4",
+        "2gis/api-client": "dev-master",
+        "php-curl-class/php-curl-class": "^9.3",
+        "phpquery/phpquery": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "fw\\": "vendor/fw",
+            "app\\": "app"
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "5.2"
+    }
+}

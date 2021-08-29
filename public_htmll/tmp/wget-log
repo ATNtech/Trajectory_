@@ -1,0 +1,11 @@
+--2021-08-28 17:45:18--  https://www.list-org.com/list?okved2=85.11
+Resolving www.list-org.com (www.list-org.com)... 206.81.18.48
+Connecting to www.list-org.com (www.list-org.com)|206.81.18.48|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘list?okved2=85.11’
+
+list?okved2=85.11                 [<=>                                               ]       0  --.-KB/s               list?okved2=85.11                 [ <=>                                              ]  23.75K  --.-KB/s    in 0.003s  
+
+2021-08-28 17:45:19 (8.70 MB/s) - ‘list?okved2=85.11’ saved [24325]
+

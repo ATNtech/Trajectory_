@@ -1,0 +1,10 @@
+[2017-04-09 10:36:27] Текст ошибки: Undefined variable: test | Файл: D:\WebServer\domains\fw.loc\public\test\error\index.php, | Строка: 63
+==========================
+[2017-04-09 10:36:50] Текст ошибки: Undefined variable: test | Файл: D:\WebServer\domains\fw.loc\public\test\error\index.php, | Строка: 63
+==========================
+[2017-04-09 10:38:27] Текст ошибки: Call to undefined function test() | Файл: D:\WebServer\domains\fw.loc\public\test\error\index.php, | Строка: 66
+==========================
+[2017-04-09 10:38:45] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\fw.loc\public\test\error\index.php, | Строка: 75
+==========================
+[2017-04-09 10:39:03] Текст ошибки: Упс, исключение | Файл: D:\WebServer\domains\fw.loc\public\test\error\index.php, | Строка: 77
+==========================
