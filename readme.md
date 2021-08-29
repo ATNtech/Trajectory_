@@ -13,9 +13,12 @@
 Ссылка на фигму: [Figma](https://www.figma.com/file/9GoR4sCu6SeJJjFO2STXTh/Traektory)
 
 Юзер-стори:
+
 ![Юзер-стори_1](/media/userstory01.gif)
+
 ![Юзер-стори_2](/media/userstory02.gif)
 
 Интерфейс:
+
 ![Интерфейс](/media/interface.gif)
 
